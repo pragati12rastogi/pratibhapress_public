@@ -1,0 +1,30 @@
+<?php
+return [
+    //create
+    'create title'=>'Create Scenario',
+    'view title'=>'View Scenario',
+    'update title'=>'Update Scenario',
+    'list'=>'List of Scenario',
+    'name'=>'Name',
+    'alias'=>'Alias',
+    'include actuals'=>'Include Actuals',
+    ''=>'',
+    'exclude forex'=>'Exclude Forex Gain/Loss Calculation',
+    'exclude'=>'Exclude',
+    'include'=>'Include',
+    ''=>'',
+    // id
+    'id'=>'Id',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+    ''=>'',
+];
